@@ -1,0 +1,3 @@
+package: github.com/EricHype/pipeline
+import:
+- package: github.com/codegangsta/negroni
